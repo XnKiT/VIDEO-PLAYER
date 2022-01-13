@@ -6,7 +6,7 @@
         "VIDEOPLAY",
         "Telegram Bot"
     ],
-    "repository": "https://github.com/LEGEND-ANKIT/TELEGRAM-VC-STREAMER",
+    "repository": "https://github.com/LEGEND-ANKIT/VIDEO-PLAYER",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
