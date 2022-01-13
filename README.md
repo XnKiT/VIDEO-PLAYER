@@ -1,12 +1,12 @@
-<h2 align="center"> <a href="https://github.com/LEGEND-ANKIT/TELEGRAM-VC-STREAMER">🔰TELEGRAM VOICECHAT STREAMER🔰</a></h2>
+<h2 align="center"> <a href="https://github.com/LEGEND-ANKIT/VIDEO-PLAYER">🔰TELEGRAM VOICECHAT STREAMER🔰</a></h2>
 
 
-[![LEGEND-ANKIT LOGO](https://telegra.ph/file/b002d63974bd05ea7a336.jpg)](https://github.com/LEGEND-ANKIT/TELEGRAM-VC-STREAMER)
+[![LEGEND-ANKIT LOGO](https://telegra.ph/file/b002d63974bd05ea7a336.jpg)](https://github.com/LEGEND-ANKIT/VIDEO-PLAYER)
 
 
 <details>
   <summary> • ⚡INSTALLING⚡ • </summary>
-  <a href="https://heroku.com/deploy?template=https://github.com/LEGEND-ANKIT/TELEGRAM-VC-STREAMER"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+  <a href="https://heroku.com/deploy?template=https://github.com/LEGEND-ANKIT/VIDEO-PLAYER"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
   
 </details>
 
