@@ -1,6 +1,6 @@
 echo "Cloning Repo..."
-git clone -b main https://github.com/LEGEND-ANKIT/VIDEO-PLAYER /VideoBot
-cd /VideoBot
+git clone -b main https://github.com/LEGEND-ANKIT/VIDEO-PLAYER /VIDEO-PLAYER
+cd /VIDEO-PLAYER
 
 echo "Installing Requirements..."
 pip3 install -U -r requirements.txt
