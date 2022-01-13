@@ -13,8 +13,8 @@ COPY requirements.txt /requirements.txt
 RUN cd /
 RUN pip3 install -U -r requirements.txt
 
-RUN mkdir /VideoBot
-WORKDIR /VideoBot
+RUN mkdir /Ankit
+WORKDIR /Ankit
 
 COPY start.sh /start.sh
 CMD ["/bin/bash", "/start.sh"]
