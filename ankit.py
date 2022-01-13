@@ -368,7 +368,7 @@ async def help(client, m: Message):
 async def update(client, m: Message):
    hmm = await bash("git pull -f")
    await m.reply(f"`{hmm}`")
-   os.execl(sys.executable, "python3", "-m", "vidstream.py")
+   os.execl(sys.executable, "python3", "ankit.py")
 
 @bot.on_message(self_or_contact_filter & filters.command("restart", prefixes=f"{HNDLR}"))
 async def restart(client, m: Message):
