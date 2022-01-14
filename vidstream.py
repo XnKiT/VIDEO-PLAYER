@@ -362,7 +362,7 @@ async def kill(client, m: Message):
 
 @bot.on_message(self_or_contact_filter & filters.command("help", prefixes=f"{HNDLR}"))
 async def help(client, m: Message):
-   await m.reply(f"**🔰DEVELOPER🔰 ↗ [©LEGEND-ANKIT™](https://github.com/LEGEND-ANKIT)** \n\n**🛠 HELP MENU** \n\n`{HNDLR}ping` \n`{HNDLR}vplay query` \n`{HNDLR}vstream link` \n`{HNDLR}vstop` \n`{HNDLR}pause` \n`{HNDLR}resume` \n`{HNDLR}update` \n`{HNDLR}restart`")
+   await m.reply(f"**`🔰DEVELOPER🔰 ↗ ©LEGEND-ANKIT™`** \n\n**🛠 HELP MENU** \n\n`{HNDLR}ping` \n`{HNDLR}vplay query` \n`{HNDLR}vstream link` \n`{HNDLR}vstop` \n`{HNDLR}pause` \n`{HNDLR}resume` \n`{HNDLR}update` \n`{HNDLR}restart`")
 
 @bot.on_message(self_or_contact_filter & filters.command("update", prefixes=f"{HNDLR}"))
 async def update(client, m: Message):
